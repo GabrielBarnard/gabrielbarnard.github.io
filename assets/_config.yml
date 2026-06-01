@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Gabriel Barnard ePortfolio
 description: My ePortfolio for CS-499
+include: [assets]

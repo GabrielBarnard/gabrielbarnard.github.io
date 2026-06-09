@@ -25,8 +25,9 @@ Through the enhancements to my project, I fully achieved all of the following co
 
 ## Enhancement One: Software Engineering and Design
 
-![First Screen in Enhancement One](assets/images/enhancement_one_1.png)
-![Second and Third Screen in Enhancement One](assets/images/enhancement_one_2.png)
+<img src="assets/images/enhancement_one_1.png"/>
+
+<img src="assets/images/enhancement_one_2.png"/>
 
 Throughout the process of enhancing and modifying this artifact, I learnt a lot about Qt and qmake. I’ve worked with other GUI libraries before, but using Qt was a new experience for me; learning to use QT Designer - a UI creation menu - was certainly a challenge. Moreover, I also learnt how larger-scale projects may choose to structure their folders, files, and documentation. Until now, I’d only worked on relatively small projects, so having the opportunity to work on a somewhat larger project that necessitates a more complex structure was definitely interesting. However, on a similar note, one challenge I faced was having to change my initial folder structure plan. Originally, I wanted to use just a src and a res folder, but over time, this expanded to src, ui, build, bin, inc, and ui folders, as well as a few additional files, such as qmake’s .pro file.
 

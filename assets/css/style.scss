@@ -3,9 +3,11 @@
 @import "{{ site.theme }}";
 
 $primary-color: #221C35; 
+$text-color: #FAFAFA;
 $font-stack: 'Hack';
 
 body {
-  color: $primary-color;
+  background-color: $primary-color;
+  color: $text-color;
   font-family: $font-stack;
 }

@@ -4,10 +4,16 @@
 
 $primary-color: #221C35; 
 $text-color: #FAFAFA;
+$header-color: #000000;
 $font-stack: 'Hack';
 
 body {
   background-color: $primary-color;
   color: $text-color;
+  font-family: $font-stack;
+}
+
+.site-header {
+  background-color: $header-color;
   font-family: $font-stack;
 }

@@ -17,7 +17,7 @@ body {
   background-color: $header-color;
   font-family: $font-stack;
 
-  a, &.site-title {
+  a, .site-title {
     color: $text-color;
   }
 }

@@ -14,6 +14,11 @@ As part of the CS-499 course, I had to add three enhancements to a past project(
 * Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 * Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
+
+## Code Review
+
+<video src="assets/code_review.mp4" width="100%" controls></video>
+
 ## Enhancement One: Software Engineering and Design
 
 
@@ -26,6 +31,3 @@ As part of the CS-499 course, I had to add three enhancements to a past project(
 
 
 
-## Code Review
-
-<video src="assets/code_review.mp4" width="100%" controls></video>

@@ -1,0 +1,3 @@
+[submodule "crud-for-financial-data"]
+	path = crud-for-financial-data
+	url = https://github.com/gabrielbarnard/crud-for-financial-data

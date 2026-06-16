@@ -61,7 +61,7 @@ The artifact I’ve selected is my final project for CS-300: Data Structures & A
 
 ## Important Links
 
-Repository for website: https://github.com/GabrielBarnard/gabrielbarnard.github.io
+[Repository for this website](https://github.com/GabrielBarnard/gabrielbarnard.github.io)
 
-Repository for project: https://github.com/GabrielBarnard/CRUD-for-Financial-Data
+[Repository for project](https://github.com/GabrielBarnard/CRUD-for-Financial-Data)
 

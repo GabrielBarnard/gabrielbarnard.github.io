@@ -1,4 +1,4 @@
-## Professional Self Assessment
+## Professional Self-Assessment
 
 Throughout my time in the Computer Science program at Southern New Hampshire University (SNHU), I have gained valuable skills, knowledge, and experience in many aspects of Computer Science, including, but not limited to, Software Testing, Software Automation, Quality Assurance, Software Security, Object-Oriented Programming, Software Engineering, Software Design, Databases (including relational databases like MySQL and SQLite, and non-relational databases like MongoDB), Computer Graphics and Visualization with software like OpenGL, Data Structures, and Algorithms. 
 
